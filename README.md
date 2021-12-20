@@ -4,4 +4,7 @@ This here is my small project to average two words. First method, the average_wo
 Second method, the average_letters will try to average letters based on their unicode position.
 
 Here is Collab, more info there:
-https://colab.research.google.com/drive/1zq3lvOgyGA8KkgTDbyx_SrifM9xxo1Eq#scrollTo=vTrGdwJjeDXL
+<a href="https://colab.research.google.com/drive/1zq3lvOgyGA8KkgTDbyx_SrifM9xxo1Eq#scrollTo=vTrGdwJjeDXL">
+    <img alt="ru-dalle-diffusion colab link" src="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
